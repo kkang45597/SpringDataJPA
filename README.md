@@ -1,6 +1,6 @@
 # Spring Data JPA
-Spring Data JPA 3.4.0 공식 문서 예제들을 구현했습니다.</br>
-[[ <b>공식 문서: JPA</b> ]](https://docs.spring.io/spring-data/jpa/reference/jpa.html)</br>
+Spring Data JPA 3.4.0 공식 문서 예제들을 구현했습니다.</br></br>
+[[ <b>공식 문서: JPA</b> ]](https://docs.spring.io/spring-data/jpa/reference/jpa.html) / 
 [[ <b>기술 블로그: Spring Boot/Spring Data JPA</b> ]](https://blank001.tistory.com/category/Spring%20Boot/Spring%20Data%20JPA)
 
 ## 구현한 예제들
